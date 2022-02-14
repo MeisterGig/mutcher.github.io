@@ -1,0 +1,14 @@
+title: Design it
+email: ilya.gorbatiuk@gmail.com
+description: >- 
+  This is a personal blog about the software architecture and programming
+linkedin_username: illia-gorbatiuk
+instagram_username: illia.gorbatiuk
+github_username: mutcher
+
+theme: minima
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
